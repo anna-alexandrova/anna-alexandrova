@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Anna Alexandrova
+Linguistic Typology | Computational Linguistics | NLP | Network Analysis | Geospatial Methods
 <!--
 **anna-alexandrova/anna-alexandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
