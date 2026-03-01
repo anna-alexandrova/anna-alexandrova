@@ -2,6 +2,8 @@
 Linguistic Typology | Computational Linguistics | NLP | Network Analysis | Geospatial Methods
 
 ![Python](https://img.shields.io/badge/Python-darkgreen?logo=python)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 <!--
 **anna-alexandrova/anna-alexandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
