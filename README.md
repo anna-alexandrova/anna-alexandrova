@@ -1,7 +1,7 @@
 ## Anna Alexandrova
 Linguistic Typology | Computational Linguistics | NLP | Network Analysis | Geospatial Methods
 
-![Python](https://img.shields.io/badge/Python-springgreen?logo=python&text=black)
+![Python](https://img.shields.io/badge/Python-darkgreen?logo=python)
 <!--
 **anna-alexandrova/anna-alexandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
