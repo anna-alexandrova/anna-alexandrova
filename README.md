@@ -23,7 +23,7 @@ Linguistic Typology | Computational Linguistics | NLP | Network Analysis | Geosp
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white)
 
-## Deep Learning
+### Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
