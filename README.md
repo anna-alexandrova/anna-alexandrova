@@ -4,6 +4,10 @@ Linguistic Typology | Computational Linguistics | NLP | Network Analysis | Geosp
 ![Python](https://img.shields.io/badge/Python-2E8B57?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0A9396?logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-1F6F8B?logo=neo4j&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 <!--
 **anna-alexandrova/anna-alexandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
