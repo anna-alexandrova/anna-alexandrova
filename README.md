@@ -22,6 +22,9 @@ Linguistic Typology | Computational Linguistics | NLP | Network Analysis | Geosp
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white)
+
+### Network Analysis
+
 ![NetworkX](https://img.shields.io/badge/NetworkX-2E8B57?logo=python&logoColor=white)
 ![igraph](https://img.shields.io/badge/igraph-1B5E20?logo=python&logoColor=white)
 
